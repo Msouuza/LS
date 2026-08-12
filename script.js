@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       
       // redireciona após envio
-      window.location.href = 'https://www.youtube.com/watch?v=64vYkhmsagM&list=RD64vYkhmsagM&start_radio=1';
+      window.location.href = 'https://www.youtube.com/watch?v=M9Yvvs2eBtc&t=130s';
     } catch (err) {
       console.error('Erro ao enviar notificação:', err);
       
